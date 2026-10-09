@@ -1,28 +1,20 @@
 # Design Journey — Checkpoint 1
 
-**As of:** [date]
+**As of:** 10/9/2026
 
 ## What I've learned so far
 
-<!-- 3-4 bullets. Pair each concept with a concrete moment from a lab, project, or exam. -->
-- **[Concept]:** [What I understand now that I didn't before, and where it clicked.]
-- **[Concept]:** [ ]
-- **[Process/skill]:** [e.g., how to debug a simulation, how to read a spec, how to check my work]
+- **Band Pass Filters:** I've had a tremendous amount of practice setting up band pass filters on schematics and by hand now. Calculating corner frequencies and analyzing tradeoffs with gain have become second nature now.
+- **Operational Amplifiers:** I've spent a lot of time considering GBW, input impedances and voltages, power rails, and adjusting voltages to meet the specifications of the op amps I'm working with.
+- **Hardware Debugging/Measurement:** I can effectively use a waveform generator and oscilloscope to measure frequencies and voltages in my board. I can quickly analyze amplified signal frequencies using FFT settings, and adjusting my generator.
 
 ## What was hard
 
-[One honest paragraph: what was difficult or surprising, and how I worked through it.]
+It's hard to notice the small things in the board that may be incorrect. Such as non-grounded op amps, flipped photodiodes, or feedback loop setups.
 
 ## What I plan to improve next
 
-<!-- Make it realistic and specific. Include a deadline. -->
-- **Next step:** [Specific action, e.g., "Add a short written explanation of my filter corner-frequency choices to Artifact 1."]
-- **By:** [date]
-- **Longer-term:** [e.g., "Add a third artifact after the next unit" or "Add non-class projects"]
+I hope to clean up my physical board and adjust my schematics to the reality that I've built. I'll get rid of unnecessary filters and adjust accordingly. Eventually, I'll build the transmitter board, and design and create a PCB with all necessary components.
 
-## Portfolio to-do list
 
-- [ ] Add images/plots to each artifact
-- [ ] Tighten the "My contribution" notes
-- [ ] Add resume and contact links
-- [ ] [ ]
+
