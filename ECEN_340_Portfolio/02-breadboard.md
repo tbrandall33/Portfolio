@@ -21,7 +21,7 @@ In this project, we were diving into the hands-on electrical components of our r
 A few changes were made as we worked. Our first setup included the use of two breadboards, to separate the power rails, and the operation amplifier/filters. Our photodiode direction also threw us for a loop at a few points. 
 
 ## Result
-!First breadboard image: (ECEN_340_Porfolio/breadboard.png)
+[First breadboard image](breadboard.png)
 
 Testing against the gun showed our signal-noise voltage to be above 0.33V. Considering our player signal frequencies achieved voltages close to that number, I would say our project was successful at attenuating non-player frequencies and noise.
 
