@@ -14,6 +14,8 @@ I'm a Junior Electrical Engineer at BYU looking. I enjoy investigating math and 
 | SPICE simulation and netlist-based verification | [Op-amp filter design](Portfolio/01-opamp-filter-design.md) |
 | Filter design and noise/gain tradeoffs | [Op-amp filter design](Portfolio/01-opamp-filter-design.md) |
 | Physical filter testing | [Breadboard Layout and Testing](Portfolio/02-breadboard.md) |
+| Soldering and Testing Voltage | 
+| KiCad and PCB design | 
 
 ## Featured work (EC EN 340, Fall 2026)
 
