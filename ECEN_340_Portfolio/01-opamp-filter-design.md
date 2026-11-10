@@ -14,7 +14,9 @@ amplifiers with passive low pass filters placed on the feedback loops, and high 
 
 ## Result
 [Op-Amp Schematic](opamp-schematic.png)
+
 [Oscilloscope Results 1](scope_0.png)
+
 [Oscilloscope Results 2](scope_1.png)
 
 The result came back with a Vs-Vn of about 2.4 V! Although these resistor/capacitor values may be difficult to find, and so I may go back to an older version with a 
