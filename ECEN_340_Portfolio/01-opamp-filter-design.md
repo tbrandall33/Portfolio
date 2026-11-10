@@ -13,8 +13,7 @@ I approached many different topologies and filter setups to accomplish the neces
 amplifiers with passive low pass filters placed on the feedback loops, and high pass filters placed in between stages. Other low pass filters were places near noise signals to attenuate as much as possible. 
 
 ## Result
-
-(Porfolio/opamp-schematic.png)
+(ECEN_340_Porfolio/opamp-schematic.png)
 
 The result came back with a Vs-Vn of about 2.4 V! Although these resistor/capacitor values may be difficult to find, and so I may go back to an older version with a 
 similar design and more realistic values. 

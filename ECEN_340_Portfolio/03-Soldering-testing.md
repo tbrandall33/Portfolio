@@ -14,6 +14,7 @@ Afterwards, I checked continuity between every combination of pins, to check for
 More soldering and testing will be performed within the week on the rest of the PCB board since it's now printed. Results will be reported here.
 
 ## Result
+(ECEN_340_Porfolio/transmitter_board.png)
 The resulting transmitter board was successful in it's functionality and a sufficient amount of current was measured through the LED. 
 
 

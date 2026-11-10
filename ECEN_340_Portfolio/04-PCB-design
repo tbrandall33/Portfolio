@@ -13,6 +13,9 @@ I spent time learning the basics of KiCad, to first layout the schematic in its 
 After, I designed the traces on the board, carefully placing components to allow for short, straight connections and easy pin access. All labels were obvious, avoiding drill holes, and the board grounded on both sides.
 
 ## Result
+(ECEN_340_Porfolio/pcb_schematic.png)
+(ECEN_340_Porfolio/pcb_board_layout.png)
+(ECEN_340_Porfolio/printed_board.png)
 The resulting board was well-spaced and designed. Unforunatelty we're going with the design of my partner, so we may never get to test the board physically, but I'm proud of the skills I developed while practicing and developing this product.
 
 ## What went wrong, and what I changed
