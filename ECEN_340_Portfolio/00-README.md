@@ -26,5 +26,5 @@ I'm a Junior Electrical Engineer at BYU looking. I enjoy investigating math and 
 
 ## Design Journey
 
-Taking a step back and digging into the math or doing things by hand is sometimes a great first step. Jumping into things to crazily at the beginning can results in a lot of testing, failure, and repeated inefficient trials. [Design Journey](design-journey-BYUaims.md)
+Taking a step back and digging into the math or doing things by hand is sometimes a great first step. Jumping into things too crazily at the beginning can results in a lot of testing, failure, and repeated inefficient trials. [Design Journey](design-journey-BYUaims.md)
 
