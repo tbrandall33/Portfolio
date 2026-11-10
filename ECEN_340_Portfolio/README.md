@@ -11,16 +11,16 @@ I'm a Junior Electrical Engineer at BYU looking. I enjoy investigating math and 
 
 | Skill | Where it shows up |
 |---|---|
-| SPICE simulation and netlist-based verification | [Op-amp filter design](Portfolio/01-opamp-filter-design.md) |
-| Filter design and noise/gain tradeoffs | [Op-amp filter design](Portfolio/01-opamp-filter-design.md) |
-| Physical filter testing | [Breadboard Layout and Testing](Portfolio/02-breadboard.md) |
-| Soldering and Testing Voltage | 
-| KiCad and PCB design | 
+| SPICE simulation and netlist-based verification | [Op-amp filter design](ECEN_340_Portfolio/01-opamp-filter-design.md) |
+| Filter design and noise/gain tradeoffs | [Op-amp filter design](ECEN_340_Portfolio/01-opamp-filter-design.md) |
+| Physical filter testing | [Breadboard Layout and Testing](ECEN_340_Portfolio/02-breadboard.md) |
+| Soldering and Testing Voltage | [Soldering a Transmitter board](ECEN_340_Portfolio/03-soldering-testing.md)
+| KiCad and PCB design | [Designing and Printing a PCB] (ECEN_340_Portfolio/04-PCB-design.md)
 
 ## Featured work (EC EN 340, Fall 2026)
 
-1. [**Two-stage op-amp amplifier/filter design**](Portfolio/01-opamp-filter-design.md) — Used NGSpice to simulate and design a two-stage amplifier with band pass filters
-2. [**Breadboard Layout and Testing**](Portfolio/02-breadboard.md) — Physically built and tested breadboard circuits 
+1. [**Two-stage op-amp amplifier/filter design**](ECEN_340_Portfolio/01-opamp-filter-design.md) — Used NGSpice to simulate and design a two-stage amplifier with band pass filters
+2. [**Breadboard Layout and Testing**](ECEN_340_Portfolio/02-breadboard.md) — Physically built and tested breadboard circuits 
 
 ## Design Journey
 
